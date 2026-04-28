@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Desenvolvedor Front-End em formação  
-👨‍💼 Jovem Aprendiz atuando com tecnologia e inovação  
+👨‍💼 Estágiario atuando com tecnologia e inovação  
 
 Atualmente estou focado em desenvolver interfaces modernas, responsivas e funcionais usando HTML, CSS, JavaScript e explorando frameworks como React.
 
